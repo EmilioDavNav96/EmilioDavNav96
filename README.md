@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmilioDavNav96
 - 👀 I’m interested in statistcal analysis using R as tool, data science, biology and evolution
-- 🌱 I’m currently learning programming in R
-- 💞️ I’m looking to collaborate on research proyects sorrounding Ecology, Biology and Evolution
+- 🌱 I’m currently learning programming in R and soon in Python
+- 💞️ I’m looking to collaborate on research proyects which include areas like Ecology, Biology and Evolution
 - 📫 How to reach me: dav.nav96@gmail.com
 
 <!---
